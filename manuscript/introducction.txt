@@ -1,8 +1,0 @@
-# Holi
-
-![Undraw 1](undraw.jpg)
-
-![Undraw 2](resources/undraw.jpg)
-
-{width: "50%"}
-![Logo CódigoFacilito ](resources/logocf.png)

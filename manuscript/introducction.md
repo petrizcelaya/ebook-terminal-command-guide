@@ -1,5 +1,8 @@
 # Introducción
 ![](images/undraw.jpg)
 
-{width: 50%}
+{width: 10%}
+![](images/logocf.png)
+
+{width: "10%"}
 ![](images/logocf.png)
